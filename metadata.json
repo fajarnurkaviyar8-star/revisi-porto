@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Fajar Nur Kaviyar",
+  "description": "Website portofolio resmi Fajar Nur Kaviyar, Mahasiswa Sistem Informasi di Universitas Komputer Majenang (UNIKMA). Berisi profil, proyek, keahlian, pengalaman kerja, dan kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
